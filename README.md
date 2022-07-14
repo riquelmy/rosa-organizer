@@ -1,2 +1,2 @@
 # rosaorganizer
-A simple files organizer made with python.
+A simple organizer of files made with Python.
